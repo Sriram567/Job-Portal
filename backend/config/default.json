@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://sriram123:sriram123@db.truws.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "secret",
+    "githubToken": "2cf7fbd70c820263532ff13747ecc5b74ae81545"
+}
